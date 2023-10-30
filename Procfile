@@ -1,1 +1,1 @@
-web: python manage.py runserver 
+web: python portfolio/manage.py runserver 
